@@ -1,0 +1,10 @@
+body{margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,Arial;background:#0b1020;color:#e8ecf5}
+.container{max-width:980px;margin:32px auto;padding:0 16px}
+.card{background:#121933;border:1px solid #223;border-radius:14px;padding:16px;margin-bottom:16px}
+h1{margin:0 0 6px} .muted{opacity:.75} .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+input{padding:8px;border-radius:8px;border:1px solid #334;background:#0b1020;color:#e8ecf5;width:100%}
+button{padding:10px 14px;border-radius:10px;border:0;background:#3b82f6;color:white;cursor:pointer}
+pre{background:#0b1020;border:1px solid #223;border-radius:10px;padding:10px;white-space:pre-wrap;word-wrap:break-word}
+.badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#1e293b;border:1px solid #334;margin-left:8px}
+.tag{display:inline-block;padding:2px 6px;margin-right:6px;border-radius:999px;background:#0b1020;border:1px solid #334}
+.alert{padding:8px 12px;border-radius:10px;background:#3b1f1f;border:1px solid #6b2a2a;margin-right:8px;margin-bottom:6px;display:inline-block}

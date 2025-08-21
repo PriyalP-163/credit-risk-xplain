@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.env.local
+node_modules/
+dist/
+.vscode/
+.ipynb_checkpoints/
