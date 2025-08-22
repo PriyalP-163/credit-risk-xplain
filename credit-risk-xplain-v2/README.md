@@ -1,7 +1,5 @@
 # 🏦 Credit Risk Xplain v2 – Live Data + Event Integration + Trends/Alerts
 
-This is an upgraded end-to-end prototype aligned with the hackathon spec:
-
 - **2× Structured**: Yahoo Finance (returns, volatility, momentum) + World Bank (GDP growth, inflation)
 - **1× Unstructured**: Real-time news (NewsAPI or Reuters RSS) with
   - **Sentiment** (VADER)
@@ -57,7 +55,3 @@ Open http://localhost:5173
   - `downtrend` if short-term ≪ long-term
 
 ---
-
-## ❗ Notes
-- This is a hackathon-friendly prototype focused on clarity + stability.
-- Add CRON/worker for scheduled refresh and auto-retraining as a next step.
